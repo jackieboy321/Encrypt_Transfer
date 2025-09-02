@@ -2,7 +2,8 @@
 
 # 文件加密/解密/粉碎工具
 
-![image-20250720233412367](./README.assets/image-20250720233412367.png)
+<img width="585" height="585" alt="image-20250720233412367" src="https://github.com/user-attachments/assets/b1543e31-4e21-4b36-973a-7811d7d66ab6" />
+
 
 - 一个基于Python开发的现代化文件加密解密工具，采用RSA+AES混合加密算法，提供安全可靠的文件保护解决方案。
 
@@ -30,7 +31,8 @@
 
 ### 2. 主界面
 
-![image-20250721092520730](./README.assets/image-20250721092520730.png)
+<img width="522" height="787" alt="image-20250721092520730" src="https://github.com/user-attachments/assets/d9270dd8-e775-4374-8ef6-124a4f3d33f7" />
+
 
 ## 💡 使用方法
 
